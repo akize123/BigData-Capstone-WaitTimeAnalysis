@@ -6,6 +6,7 @@ This project aims to detect which hospitals have high patient wait times and exp
 - **Sector:**  I choose Health
 
 - **Dataset Source:** [CMS.gov – Hospital Info](https://data.cms.gov/provider-data/dataset/xubh-q36u)
+- for the powerpointpresentation : (https://acrobat.adobe.com/id/urn:aaid:sc:eu:ab6d65f3-bc81-4aaa-b86f-1fc04fbe2d4b)
 
 - **Tools Used:** Python, Power BI and Vs code
 
@@ -45,3 +46,4 @@ This project aims to detect which hospitals have high patient wait times and exp
 ## 📌 Author
 
 Akize Israel  25883 | AUCA | INSY 8413 – Big Data Analytics | 2024–2025
+
