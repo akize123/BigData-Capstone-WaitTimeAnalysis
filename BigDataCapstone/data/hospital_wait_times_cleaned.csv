@@ -1,0 +1,4 @@
+facility_id,facility_name,city,state,county_name,hospital_type,hospital_ownership,emergency_services,location,hospital_overall_rating,mortality_national_comparison,safety_of_care_national_comparison
+010001,SOUTHEAST ALABAMA MEDICAL CENTER,DOTHAN,AL,HOUSTON,Acute Care Hospitals,Voluntary non-profit - Private,Yes,"(31.2075, -85.4041)",3.0,Same as the national average,Below the national average
+010002,MARSHALL MEDICAL CENTER SOUTH,BOAZ,AL,MARSHALL,Acute Care Hospitals,Government - Hospital District or Authority,Yes,"(34.2008, -86.1668)",4.0,Above the national average,Same as the national average
+010003,ST VINCENT S BIRMINGHAM,BIRMINGHAM,AL,JEFFERSON,Acute Care Hospitals,Voluntary non-profit - Church,Unknown,"(33.5207, -86.8025)",,Below the national average,Same as the national average
